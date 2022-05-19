@@ -1,0 +1,14 @@
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\bin\Debug\netcoreapp3.1\CourseVect.exe
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\bin\Debug\netcoreapp3.1\CourseVect.deps.json
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\bin\Debug\netcoreapp3.1\CourseVect.runtimeconfig.json
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\bin\Debug\netcoreapp3.1\CourseVect.runtimeconfig.dev.json
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\bin\Debug\netcoreapp3.1\CourseVect.dll
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\bin\Debug\netcoreapp3.1\CourseVect.pdb
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\obj\Debug\netcoreapp3.1\CourseVect.csproj.AssemblyReference.cache
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\obj\Debug\netcoreapp3.1\CourseVect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\obj\Debug\netcoreapp3.1\CourseVect.AssemblyInfoInputs.cache
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\obj\Debug\netcoreapp3.1\CourseVect.AssemblyInfo.cs
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\obj\Debug\netcoreapp3.1\CourseVect.csproj.CoreCompileInputs.cache
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\obj\Debug\netcoreapp3.1\CourseVect.dll
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\obj\Debug\netcoreapp3.1\CourseVect.pdb
+C:\Users\arthur.nogueira\Desktop\workspace\CourseVect\CourseVect\obj\Debug\netcoreapp3.1\CourseVect.genruntimeconfig.cache
